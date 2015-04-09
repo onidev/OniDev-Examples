@@ -17,9 +17,6 @@ int main()
     od::Perlin2 noise2;
     od::Perlin3 noise;
     
-    // la fonction multifractal n'est pas équivalente a l'ancienne fractalNoise2d
-    /// @todo regler les soucis causés par ce changement...
-    
     int wid = 512;
     int hei = 512;
     float r = 220;
