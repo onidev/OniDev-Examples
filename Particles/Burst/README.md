@@ -1,3 +1,3 @@
 Particles burst example
 
-![alt tag](http://i.imgur.com/VB7Qa7J.png)
+![alt tag](https://i.imgur.com/fj4WPnI.gif)
